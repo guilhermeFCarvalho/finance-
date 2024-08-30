@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Finance+</string>
+    <string name="date">Data de lançamento</string>
+    <string name="value">Valor (R$)</string>
+    <string name="save">Lançar</string>
+    <string name="history">Histórico</string>
+    <string name="balance">Saldo</string>
+    <string name="detail_hint">Detalhe</string>
+    <string name="type_hint">Tipo</string>
+    <string name="current_balance">Saldo atual: R$%.2f</string>
+    <string name="transaction_save_success">Transação salva com sucesso!</string>
+    <string name="invalid_date">Data inválida!</string>
+    <string name="transaction_save_error">Erro ao salvar a transação!</string>
+    <string name="fill_all_fields">Por favor, preencha todos os campos!</string>
+    <string name="credit">Crédito</string>
+    <string name="debit">Débito</string>
+    <string name="health">Saúde</string>
+    <string name="education">Educação</string>
+    <string name="transport">Transporte</string>
+    <string name="leisure">Lazer</string>
+    <string name="date_format">DDMMAAAA</string>
+</resources>
